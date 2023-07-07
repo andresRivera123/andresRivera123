@@ -1,7 +1,7 @@
 <div aling="center">
   <h1 aling="center">Hi, my name is Andres Rivera Valle</h1>
 </div>
-
+<img src="https://i.imgur.com/48NIG4F.png&logoColor=white" alt="LinkedIn"/>
 ## About me
 - 💻 Software Developer
 - 📱 Frontend web designer
