@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/48NIG4F.png&logoColor=white" alt="LinkedIn"/>
 
 ## About me
-- 💻 Software Developer
+- 💻 Software Engineer
 - 📱 Frontend web designer
 - 🎮 Video games developer
 
