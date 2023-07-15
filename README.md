@@ -2,7 +2,7 @@
 
 ## About me
 - 💻 Software Engineer
-- 📱 Frontend web designer
+- 📱 Frontend designer
 - 🎮 Video games developer
 
 ## Connect with me
