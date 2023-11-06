@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="200" src="https://media.tenor.com/zDs5Vi1gL_YAAAAC/the-truman-show-jim-carrey.gif">
+  <img width="300" height="175" src="https://media.tenor.com/zDs5Vi1gL_YAAAAC/the-truman-show-jim-carrey.gif">
 </p>
 <h1 align="center">Hi 🌎, I'm Andrés Rivera Valle</h1>
 
