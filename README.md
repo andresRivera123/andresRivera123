@@ -1,4 +1,11 @@
-<img src="https://i.imgur.com/48NIG4F.png&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <img width="300" height="200" src="https://media.tenor.com/zDs5Vi1gL_YAAAAC/the-truman-show-jim-carrey.gif">
+</p>
+<h1 align="center">Hi 🌎, I'm Andrés Rivera Valle</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Frontend+Developer;UX/UI+Designer;Videogames+Developer;&center=true&width=380&height=45&duration=2250&pause=900&color=042F56"></a>
+</p>
 
 ## About me
 - 💻 Software Engineer
