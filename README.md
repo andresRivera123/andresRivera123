@@ -14,7 +14,7 @@ About me
 💻 Passionate about developing intuitive digital experiences focused on users.
 📚 I graduated from the University of the Armed Forces "ESPE-L" in ECUADOR.
 📝 I like to apply design thinking to build innovative UX ideas.
-🌟 My Favorite Tools: HTML, CSS, Javascript, React, Unity
+🌟 My Favorite Tools: HTML, CSS, Javascript, React, Figma, Unity
 🎨 CSS framework I use: TailwindCSS, Bootstrap material UI.
 💖 A day without learning something is a day lost.
 🎵 Love rock, ska, rap and any song that invites you to think.
