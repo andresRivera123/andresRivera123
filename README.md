@@ -4,7 +4,7 @@
 <h1 align="center" color: "#333333">Hi 🌎, I'm Andrés Rivera Valle</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Frontend+Developer;UX/UI+Designer;Videogames+Developer;&center=true&width=380&height=45&size=25&duration=2250&pause=900&color=042F56"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Frontend+Developer;UX/UI+Designer;Videogames+Developer;&center=true&width=380&height=45&size=25&duration=2250&pause=900&color=754d45"></a>
 </p>
 
 
