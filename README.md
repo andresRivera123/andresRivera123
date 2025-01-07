@@ -24,7 +24,7 @@ About me
 ## Connect with me
 
 <p align="center">
-   <a  href="https://andresriveravalle.com/" target="_blank">
+   <a  href="https://andresriveravalle.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
   <a href="https://www.linkedin.com/in/carlos-andres-rivera-valle" target="_blank"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
